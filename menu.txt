@@ -3,3 +3,5 @@
 #####################################################################
 
 1. Display name with variables inside script
+2. Difference between single and double quotes
+3. Parameter from command line
